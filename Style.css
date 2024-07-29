@@ -1,0 +1,36 @@
+body {
+  background-color: whitesmoke;
+}
+p{
+  font-size:3vh;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 2vh 3vw;
+  border-radius: 3vw;
+  box-shadow: 5px 5px 5px 5px rgb(100, 100, 100);
+}
+.conv{
+  margin: auto;
+  width: 60%;
+  margin-top: 10vh;
+  background-color: white;
+  box-shadow: 5px 5px 5px 5px rgb(100, 100, 100);
+  padding: 5vh;
+  border-radius: 5vh;
+}
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 5vw;
+}
+input,button{
+  width: 17vw;
+  height: 6vh;
+  border-radius: 5vw;
+  background-color: white;
+  color: black;
+  box-shadow: 2px 2px 2px 2px rgb(100, 100, 100);
+  font-size: large;
+}
+.buts{
+  display: flex;
+  justify-content: space-between;
+}
